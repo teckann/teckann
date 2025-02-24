@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 Hi, I’m Teck Ann!<br><br>🏫 I study at Asia Pacific University of Technology & Innovation (APU)<br>💻 I’m studying Software Engineering<br>🧑‍🎓 Diploma Student<br>📧 Contact me: ganteckann582006@gmail.com
+🧑🏻‍💻 Hi, I’m Teck Ann!<br><br>🏫 I study at Asia Pacific University of Technology & Innovation (APU)<br>💻 I’m studying Software Engineering<br>🧑‍🎓 Diploma Student
 
 
 # 💻 Tech Stack:
