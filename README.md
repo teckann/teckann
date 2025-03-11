@@ -1,4 +1,4 @@
-# I’m Teck Ann!
+# I’m Teck Ann
 🏫 I study at Asia Pacific University of Technology & Innovation (APU)<br>💻 I’m studying Software Engineering<br>🧑‍🎓 Diploma Student
 
 
