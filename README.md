@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi! I am Teck Ann, a final-year diploma student in Software Engineering with hands-on experience in full-stack development by using modern frontend libraries and frameworks. Skills in web development and RESTful API integration, along with knowledge of backend development and database design. I am also familiar with the SDLC and Agile development methodologies.
+Hello! I'm Teck Ann, a software engineering student with a deep focus on building clean, modular, and responsive web applications. Specializing in full-stack ecosystems and modern web frameworks, I enjoy translating complex user requirements into robust, high-performance digital solutions.
 
 
 ## 🌐 Socials:
